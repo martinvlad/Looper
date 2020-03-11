@@ -1,12 +1,29 @@
 .App {
   text-align: center;
 }
+.all{
+  background-color: #61dafb;
+}
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
-
+.first{
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.form{
+  text-align: center;
+}
+h2{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.time{
+  color:red;
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
